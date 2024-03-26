@@ -1,1 +1,1 @@
-# AL-Laba-2-inheritance
+# AL-Laba-3-inheritance
